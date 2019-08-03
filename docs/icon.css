@@ -1,0 +1,10 @@
+i{
+  letter-spacing: .5em;
+}
+.fa-info-circle {
+    color:black;
+    transition: background 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+.fa-home {
+    color:green;
+}

@@ -1,0 +1,8 @@
+i{
+    letter-spacing: .5em;
+}
+
+.fa-question-circle {
+    color: blue;
+    transition: background 0.3s ease-in-out, color 0.3s ease-in-out;
+}
